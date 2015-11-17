@@ -1,0 +1,9 @@
+D:\Development\Git\Revit\SingleUse\RevitLibTest\RevitLibTest\bin\Debug\RevitLibTest.dll
+D:\Development\Git\Revit\SingleUse\RevitLibTest\RevitLibTest\bin\Debug\RevitLibTest.pdb
+D:\Development\Git\Revit\SingleUse\RevitLibTest\RevitLibTest\bin\Debug\RevitLib2016.dll
+D:\Development\Git\Revit\SingleUse\RevitLibTest\RevitLibTest\bin\Debug\RevitLib2016.pdb
+D:\Development\Git\Revit\SingleUse\RevitLibTest\RevitLibTest\obj\Debug\RevitLibTest.csprojResolveAssemblyReference.cache
+D:\Development\Git\Revit\SingleUse\RevitLibTest\RevitLibTest\obj\Debug\RevitLibTest.Properties.Resources.resources
+D:\Development\Git\Revit\SingleUse\RevitLibTest\RevitLibTest\obj\Debug\RevitLibTest.csproj.GenerateResource.Cache
+D:\Development\Git\Revit\SingleUse\RevitLibTest\RevitLibTest\obj\Debug\RevitLibTest.dll
+D:\Development\Git\Revit\SingleUse\RevitLibTest\RevitLibTest\obj\Debug\RevitLibTest.pdb
